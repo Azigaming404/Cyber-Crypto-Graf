@@ -14,10 +14,7 @@ BOLD=$(tput bold)
 pwd=$(pwd)
 
 
-echo "
-  ┳━┓  ┳━┓  ┓━┓  ┳ ┳    ┳━┓  ┏━┓  ┏━┓  ┳┏ 
-  ┃━┃  ┃━┫  ┗━┓  ┃━┫    ┃┳┛  ┃ ┃  ┃    ┣┻┓
-  ┇━┛  ┛ ┇  ━━┛  ┇ ┻    ┇┗┛  ┛━┛  ┗━┛  ┇ ┛" | lolcat -p 0.7
+ 
 echo -e "                               by-$BOLD rouze_d$STAND"
 echo -e "$BLUE Encrypt your BASH shell/script"
 #echo -e "$GREEN$BOLD Encrypt$STAND your$GREEN$BOLD BASH$STAND script"
