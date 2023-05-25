@@ -4,4 +4,5 @@
 # pkg install ruby
 # gem install lolcat
 
-// git clone https://github.com/Azigaming404/Cyber-Crypto-Graf.git
+# git clone https://github.com/Azigaming404/Cyber-Crypto-Graf.git
+# cd Cyber-Crypto-Graf
