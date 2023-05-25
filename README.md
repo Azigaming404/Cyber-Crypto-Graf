@@ -10,3 +10,5 @@
 
 <p> git clone https://github.com/Azigaming404/Cyber-Crypto-Graf.git </p>
 <p> cd Cyber-Crypto-Graf </p>
+<p> mv 3d.flf /usr/share/figlet/ </p>
+<p> bash cyber.sh </p>
