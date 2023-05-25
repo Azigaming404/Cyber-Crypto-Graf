@@ -14,7 +14,7 @@ BOLD=$(tput bold)
 pwd=$(pwd)
 
 clear
-figlet -f 3d "Cyber Crypto Graf"
+figlet -f 3d "Cyber Crypto Graf" | lolcat
 echo -e "                               by-$BOLD Azi_gans$STAND"
 echo -e "$BLUE Encrypt your BASH shell/script"
 #echo -e "$GREEN$BOLD Encrypt$STAND your$GREEN$BOLD BASH$STAND script"
