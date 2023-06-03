@@ -11,4 +11,6 @@
 <p> git clone https://github.com/Azigaming404/Cyber-Crypto-Graf.git </p>
 <p> cd Cyber-Crypto-Graf </p>
 <p> mv 3d.flf /usr/share/figlet/ </p>
+<p> lalu kalian masukin file yg ingin kalian encrypt di folder ini.
+</p>
 <p> bash cyberbash.sh </p>
